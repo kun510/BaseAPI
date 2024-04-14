@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Assignment"
+rootProject.name = "MVVM-Architecture-Views"
 include(":app")
